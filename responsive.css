@@ -1,4 +1,4 @@
-/* @media screen and (max-width:1340px) {
+@media screen and (max-width:1340px) {
     body{
         background-color: red;
 
@@ -50,8 +50,8 @@
         box-shadow: 2px 2px 10px rgb(146, 146, 146);
         background-color: white;
     }
-} */
-/* @media screen and (max-width:1258px) {
+} 
+ @media screen and (max-width:1258px) {
     body{
     }
     #head{
@@ -163,9 +163,9 @@
         line-height: 30px;
         color: rgb(212, 212, 212);
     }
-} */
+}
 
-@media screen and (max-width:1060px) {
+@media screen and (max-width:1067px) {
     body{
     }
 
@@ -311,7 +311,7 @@
     }
 
 }
-@media screen and (max-width:939px) {
+@media screen and (max-width:971px) {
     body{
     }
     #nav1 ul li a{
